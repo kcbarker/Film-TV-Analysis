@@ -31,10 +31,10 @@ Python:
 * Exploring data to:
   - ascertain most common imdb scores for Netflix titles to give an indication of the quality of titles on there and how likely users are to like the titles on the platform
   - exploring the number of each type of genre on Netflix to explore the spread of genres on the platform
-  - exploring the titles with the highest imdd scores, and also most with the highest imdb scores released since 2010, to ascertain which titles should be the most popular based on imdb score - if we had the data of which     titles are most streamed, it would be interesting to explore the correlation between imdb scores and most streamed to see if the two are related and whether imdb score could be used as a predictor of the success of        titles on the platform
+  - exploring the titles with the highest imdb scores, and also most with the highest imdb scores released since 2010, to ascertain which titles should be the most popular based on imdb score - if we had the data of which     titles are most streamed, it would be interesting to explore the correlation between imdb scores and most streamed to see if the two are related and whether imdb score could be used as a predictor of the success of        titles on the platform
   * Creating a function to define titles as excellent, good or poor depending on their imdb score
   * Using matplotlib to explore whether there is a correlation between runtime and imdb score to consider whether a film's length impacts on how popular it is with viewers - there was no correlation
-  * Using matplotlib to show the spreadh of imdb scores for Netflix titles - useful to consider whether high quality titles are being included on the platform. 
+  * Using matplotlib to show the spread of imdb scores for Netflix titles - useful to consider whether high quality titles are being included on the platform. 
   
 Ideas for further analysis: 
 * Obtain data for other streaming platforms and consider which platform has the most highly rated shows and movies available.
